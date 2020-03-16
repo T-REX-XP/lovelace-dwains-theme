@@ -1,0 +1,162 @@
+# Translation by Dwains
+
+ru:
+  greetings:
+    good_morning: 'Доброе утро'
+    good_afternoon: 'Добрый день'
+    good_evening: 'Добрый вечер'
+  
+  alarm:
+    armed_away: 'Охрана включена (Armed Away).'
+    armed_home: 'Охрана включена (Armed Home).'
+    disarmed: 'Охрана выключена.'
+
+  history:
+    sec_ago: 'sec ago'
+    min_ago: 'min ago'
+    h_ago: 'h ago'
+    d_ago: 'd ago'
+    m_ago: 'm ago'
+    y_ago: 'y ago'
+
+  house_information:
+    title: 'Информация'
+    favorites: 'Закладки'
+    house_calendar: 'Домашний Календарь'
+    activity: 'Активности (Двери, окна, движение)'
+
+  motion:
+    title: 'Движение'
+    title_plural: 'Движения'
+    motion_on: 'Обнаружено'
+
+  light:
+    title: 'Свет'
+    title_plural: 'Свет'
+    light_on: 'свет включен'
+    lights_on: 'свет включен'
+    light_off: 'свет выключен'
+    lights_off: 'свет выключен'
+    all_lights_on: 'Весь свет включен'
+    all_lights_off: 'Весь свет выключен'
+    on_text: 'Включен'
+    off_text: 'Выключен'
+
+  door:
+    title: 'Дверь'
+    title_plural: 'Двери'
+    door_open: 'дверь открыта'
+    doors_open: 'двери открыты'
+    all_doors_open: 'Все двери открыты'
+    all_doors_closed: 'Все двери закрыты'
+    open: 'Открыто'
+    closed: 'Закрыто'
+
+  window:
+    title: 'Окно'
+    title_plural: 'Окна'
+    window_open: 'окно открыто'
+    windows_open: 'окна открыты'
+    all_windows_open: 'Все окна открыты'
+    all_windows_closed: 'Все окна закрыты'
+    open: 'Открыть'
+    closed: 'Закрыто'
+
+  climate:
+    title: 'Темперптура'
+    title_plural: 'Иемпературы'
+    inside: 'внутри'
+    outside: 'снаружи'
+    idle: 'Stand-by'
+    heating: 'Нагревать до'
+    off_text: 'Выключен'
+    auto: 'Программа'
+    heat: 'Обогрев'
+    cool: 'Охлаждение'
+    heat_cool: 'Heat/Cool'
+    dry: 'Осушение'
+    fan_only: 'Только обдув'
+    this_room: 'Эта комната'
+    temperature: 'Температура'
+    humidity: 'Влажность'
+
+
+  cover:
+    title: 'Штора'
+    title_plural: 'Шторы'
+    cover_open: 'Открыта'
+    cover_closed: 'Закрыта'
+
+  device:
+    title: 'Устройство'
+    title_plural: 'Устройства'
+    device_on: 'устройство вкл.'
+    devices_on: 'устройства вкл.'
+    on_text: 'Вкл'
+    off_text: 'Выкл'
+    device_off: 'Устройство выкл.'
+    devices_off: 'Устройства выкл.'
+    all_devices_on: 'Все устройства включены'
+    all_devices_off: 'Все устройства выкючены'
+
+  media_player:
+    title: 'Медия плеер'
+    title_plural: 'Медия плееры'
+    media_player_on: 'Медия плеер вкл'
+    media_players_on: 'Медия плееры вкл'
+    media_player_off: 'Медия плеер выкл'
+    media_players_off: 'Медия плееры выкл'
+    all_media_players_on: 'Все медия плееры вкл'
+    all_media_players_off: 'Все медия плеер выкл'
+    on_text: 'Вкл'
+    off_text: 'Выкл'
+
+  vacuum:
+    title: 'Пылесос'
+    title_plural: 'Пылесосы'
+
+  plant:
+    title: 'Цветы'
+    title_plural: 'Цветы'
+    plant_problem: 'plant problem'
+    plants_problem: 'plants problem'
+
+  home:
+    title: 'Доманшяя страница'
+
+  rooms:
+    title: 'Комнаты'
+
+  all_lights:
+    title: 'Весь свет'
+
+  scenes:
+    title: 'Сцены'
+    not_defined: 'Сцены не обнаружены'
+
+  cameras:
+    title: 'Камеры'
+    not_defined: 'Камеры не обнаружены'
+
+  more_page:
+    title: 'Больше'
+    house_info: 'House info'
+    house_data: 
+      title: 'House data'
+      all_sensors: 'Все сенсоры'
+      all_batteries: 'Все батареи'
+      config: 'Настройки'
+      developer_tools: 'Developer tools'
+    settings:
+      title: 'Настройки темы'
+      reload_configuration: 'перезагрузить конфигурацио темы'
+      theme_docs: 'Документация'
+      support_paypal: 'Поддержать через PayPal'
+      buy_coffee: 'Купить мне кофе'
+      by: 'By'
+      version: 'Версия'
+      update_available: 'Update available of Dwains Theme!'
+    more_page_addons: 'Больше дополнений'
+
+  more_entities:
+    title: 'Больше сущностей'
